@@ -29,6 +29,7 @@ namespace yieldstatement
                 {
                     foreach (var galaxy in galaxies)
                     {
+                        Console.WriteLine("yielding " + galaxy.Name);
                         yield return galaxy;
                     }
                 }

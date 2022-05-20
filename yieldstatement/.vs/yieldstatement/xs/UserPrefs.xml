@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8C5E9917-6B10-4325-B809-7777072C0541}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="yieldstatement/Program.cs">
+    <Files>
+      <File FileName="yieldstatement/GalaxyClass.cs" Line="32" Column="70" />
+      <File FileName="yieldstatement/Program.cs" Line="10" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="yieldstatement" expanded="True">
+            <Node name="yieldstatement" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.yieldstatement PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

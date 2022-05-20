@@ -6,8 +6,8 @@ namespace yieldstatement
     {
         static void Main(string[] args)
         {
-          //  GalaxyClass.ShowGalaxies();
-            PowersOf2.ShowPowers();
+            GalaxyClass.ShowGalaxies();
+            //PowersOf2.ShowPowers();
         }
     }
 }
