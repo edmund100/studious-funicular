@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8DD85011-9AE3-486A-8FBF-E7CF814151B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="virturalkeyword/Program.cs">
+    <Files>
+      <File FileName="virturalkeyword/Program.cs" Line="20" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="virturalkeyword" expanded="True">
+            <Node name="virturalkeyword" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.virturalkeyword PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
