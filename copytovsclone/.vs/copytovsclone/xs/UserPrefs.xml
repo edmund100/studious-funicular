@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AE5F6B5C-E0EC-4061-9A5E-F0CCB937B2F2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.copytovsclone PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="copytovsclone/Program.cs">
+    <Files>
+      <File FileName="copytovsclone/Program.cs" Line="42" Column="15" />
+      <File FileName="copytovsclone/Planet.cs" Line="10" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="copytovsclone" expanded="True">
+            <Node name="copytovsclone" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
